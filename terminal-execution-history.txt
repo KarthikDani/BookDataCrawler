@@ -1,0 +1,910 @@
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Give It Back', 'price': '£18.32', 'url': 'give-it-back_430/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Girl, Interrupted', 'price': '£42.14', 'url': 'girl-interrupted_429/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Fun Home: A Family ...', 'price': '£56.59', 'url': 'fun-home-a-family-tragicomic_428/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Fruits Basket, Vol. 6 ...', 'price': '£20.96', 'url': 'fruits-basket-vol-6-fruits-basket-6_427/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Deception Point', 'price': '£40.32', 'url': 'deception-point_426/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Death Note, Vol. 6: ...', 'price': '£36.39', 'url': 'death-note-vol-6-give-and-take-death-note-6_425/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Catherine the Great: Portrait ...', 'price': '£58.55', 'url': 'catherine-the-great-portrait-of-a-woman_424/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'Better Homes and Gardens ...', 'price': '£39.61', 'url': 'better-homes-and-gardens-new-cook-book_423/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'An Unquiet Mind: A ...', 'price': '£21.30', 'url': 'an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-29.html>
+{'name': 'A Year in Provence ...', 'price': '£56.88', 'url': 'a-year-in-provence-provence-1_421/index.html'}
+2023-09-07 23:00:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-30.html> (referer: https://books.toscrape.com/catalogue/page-29.html)
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'World Without End (The ...', 'price': '£32.97', 'url': 'world-without-end-the-pillars-of-the-earth-2_420/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'Will Grayson, Will Grayson ...', 'price': '£47.31', 'url': 'will-grayson-will-grayson-will-grayson-will-grayson_419/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'Why Save the Bankers?: ...', 'price': '£48.67', 'url': 'why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'Where She Went (If ...', 'price': '£41.73', 'url': 'where-she-went-if-i-stay-2_417/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'What If?: Serious Scientific ...', 'price': '£53.68', 'url': 'what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'Two Summers', 'price': '£14.64', 'url': 'two-summers_415/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'This Is Your Brain ...', 'price': '£38.40', 'url': 'this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Secret Garden', 'price': '£15.08', 'url': 'the-secret-garden_413/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Raven King (The ...', 'price': '£30.57', 'url': 'the-raven-king-the-raven-cycle-4_412/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Raven Boys (The ...', 'price': '£57.74', 'url': 'the-raven-boys-the-raven-cycle-1_411/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Power Greens Cookbook: ...', 'price': '£11.05', 'url': 'the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Metamorphosis', 'price': '£28.58', 'url': 'the-metamorphosis_409/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Mathews Men: Seven ...', 'price': '£42.91', 'url': 'the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Little Paris Bookshop', 'price': '£24.73', 'url': 'the-little-paris-bookshop_407/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Hiding Place', 'price': '£55.91', 'url': 'the-hiding-place_406/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Grand Design', 'price': '£13.76', 'url': 'the-grand-design_405/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Firm', 'price': '£45.56', 'url': 'the-firm_404/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Fault in Our ...', 'price': '£47.22', 'url': 'the-fault-in-our-stars_403/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The False Prince (The ...', 'price': '£56.00', 'url': 'the-false-prince-the-ascendance-trilogy-1_402/index.html'}
+2023-09-07 23:00:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-30.html>
+{'name': 'The Expatriates', 'price': '£44.58', 'url': 'the-expatriates_401/index.html'}
+2023-09-07 23:00:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-31.html> (referer: https://books.toscrape.com/catalogue/page-30.html)
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'The Dream Thieves (The ...', 'price': '£34.50', 'url': 'the-dream-thieves-the-raven-cycle-2_400/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'The Darkest Corners', 'price': '£11.33', 'url': 'the-darkest-corners_399/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'The Crossover', 'price': '£38.77', 'url': 'the-crossover_398/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'The 5th Wave (The ...', 'price': '£11.83', 'url': 'the-5th-wave-the-5th-wave-1_397/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Tell the Wind and ...', 'price': '£45.51', 'url': 'tell-the-wind-and-fire_396/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Tell Me Three Things', 'price': '£41.81', 'url': 'tell-me-three-things_395/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Talking to Girls About ...', 'price': '£25.15', 'url': 'talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Siddhartha', 'price': '£34.22', 'url': 'siddhartha_393/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Shiver (The Wolves of ...', 'price': '£16.23', 'url': 'shiver-the-wolves-of-mercy-falls-1_392/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Remember Me?', 'price': '£11.48', 'url': 'remember-me_391/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Red Dragon (Hannibal Lecter ...', 'price': '£23.37', 'url': 'red-dragon-hannibal-lecter-1_390/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Peak: Secrets from the ...', 'price': '£16.28', 'url': 'peak-secrets-from-the-new-science-of-expertise_389/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'My Mother Was Nuts', 'price': '£31.63', 'url': 'my-mother-was-nuts_388/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Mexican Today: New and ...', 'price': '£24.91', 'url': 'mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Maybe Something Beautiful: How ...', 'price': '£22.54', 'url': 'maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Lola and the Boy ...', 'price': '£23.63', 'url': 'lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Logan Kade (Fallen Crest ...', 'price': '£13.12', 'url': 'logan-kade-fallen-crest-high-55_384/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Last One Home (New ...', 'price': '£59.98', 'url': 'last-one-home-new-beginnings-1_383/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Killing Floor (Jack Reacher ...', 'price': '£31.49', 'url': 'killing-floor-jack-reacher-1_382/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-31.html>
+{'name': 'Kill the Boy Band', 'price': '£15.52', 'url': 'kill-the-boy-band_381/index.html'}
+2023-09-07 23:00:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-32.html> (referer: https://books.toscrape.com/catalogue/page-31.html)
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Isla and the Happily ...', 'price': '£48.13', 'url': 'isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'If I Stay (If ...', 'price': '£38.13', 'url': 'if-i-stay-if-i-stay-1_379/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'I Know Why the ...', 'price': '£36.55', 'url': 'i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Harry Potter and the ...', 'price': '£23.32', 'url': 'harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Fruits Basket, Vol. 5 ...', 'price': '£16.33', 'url': 'fruits-basket-vol-5-fruits-basket-5_376/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Foundation (Foundation (Publication Order) ...', 'price': '£32.42', 'url': 'foundation-foundation-publication-order-1_375/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Fool Me Once', 'price': '£16.96', 'url': 'fool-me-once_374/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Find Her (Detective D.D. ...', 'price': '£22.37', 'url': 'find-her-detective-dd-warren-8_373/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Evicted: Poverty and Profit ...', 'price': '£42.27', 'url': 'evicted-poverty-and-profit-in-the-american-city_372/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Drama', 'price': '£38.70', 'url': 'drama_371/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Dracula the Un-Dead', 'price': '£35.63', 'url': 'dracula-the-un-dead_370/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Digital Fortress', 'price': '£58.00', 'url': 'digital-fortress_369/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Death Note, Vol. 5: ...', 'price': '£52.41', 'url': 'death-note-vol-5-whiteout-death-note-5_368/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Data, A Love Story: ...', 'price': '£32.35', 'url': 'data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Critique of Pure Reason', 'price': '£20.75', 'url': 'critique-of-pure-reason_366/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Booked', 'price': '£17.49', 'url': 'booked_365/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Blue Lily, Lily Blue ...', 'price': '£34.13', 'url': 'blue-lily-lily-blue-the-raven-cycle-3_364/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'Approval Junkie: Adventures in ...', 'price': '£58.81', 'url': 'approval-junkie-adventures-in-caring-too-much_363/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': 'An Abundance of Katherines', 'price': '£10.00', 'url': 'an-abundance-of-katherines_362/index.html'}
+2023-09-07 23:00:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-32.html>
+{'name': "America's War for the ...", 'price': '£51.22', 'url': 'americas-war-for-the-greater-middle-east-a-military-history_361/index.html'}
+2023-09-07 23:00:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-33.html> (referer: https://books.toscrape.com/catalogue/page-32.html)
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'Alight (The Generations Trilogy ...', 'price': '£58.59', 'url': 'alight-the-generations-trilogy-2_360/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': "A Girl's Guide to ...", 'price': '£31.30', 'url': 'a-girls-guide-to-moving-on-new-beginnings-2_359/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'A Game of Thrones ...', 'price': '£46.42', 'url': 'a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'A Feast for Crows ...', 'price': '£17.21', 'url': 'a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'A Clash of Kings ...', 'price': '£10.79', 'url': 'a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'Vogue Colors A to ...', 'price': '£52.35', 'url': 'vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Shining (The Shining ...', 'price': '£27.88', 'url': 'the-shining-the-shining-1_354/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': "The Pilgrim's Progress", 'price': '£50.26', 'url': 'the-pilgrims-progress_353/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Perfect Play (Play ...', 'price': '£59.99', 'url': 'the-perfect-play-play-by-play-1_352/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Passion of Dolssa', 'price': '£28.32', 'url': 'the-passion-of-dolssa_351/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Jazz of Physics: ...', 'price': '£38.71', 'url': 'the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Hunger Games (The ...', 'price': '£29.85', 'url': 'the-hunger-games-the-hunger-games-1_349/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Hound of the ...', 'price': '£14.82', 'url': 'the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Gunning of America: ...', 'price': '£16.81', 'url': 'the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Geography of Bliss: ...', 'price': '£28.23', 'url': 'the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Demonists (Demonist #1)', 'price': '£52.11', 'url': 'the-demonists-demonist-1_345/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Demon Prince of ...', 'price': '£27.88', 'url': 'the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Bone Hunters (Lexy ...', 'price': '£59.71', 'url': 'the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'The Beast (Black Dagger ...', 'price': '£46.08', 'url': 'the-beast-black-dagger-brotherhood-14_342/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-33.html>
+{'name': 'Some Women', 'price': '£13.73', 'url': 'some-women_341/index.html'}
+2023-09-07 23:00:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-34.html> (referer: https://books.toscrape.com/catalogue/page-33.html)
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Shopaholic Ties the Knot ...', 'price': '£48.39', 'url': 'shopaholic-ties-the-knot-shopaholic-3_340/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Paper and Fire (The ...', 'price': '£49.45', 'url': 'paper-and-fire-the-great-library-2_339/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Outlander (Outlander #1)', 'price': '£19.67', 'url': 'outlander-outlander-1_338/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Orchestra of Exiles: The ...', 'price': '£12.36', 'url': 'orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'No One Here Gets ...', 'price': '£20.02', 'url': 'no-one-here-gets-out-alive_336/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Night Shift (Night Shift ...', 'price': '£12.75', 'url': 'night-shift-night-shift-1-20_335/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Needful Things', 'price': '£47.51', 'url': 'needful-things_334/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Mockingjay (The Hunger Games ...', 'price': '£20.44', 'url': 'mockingjay-the-hunger-games-3_333/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Misery', 'price': '£34.79', 'url': 'misery_332/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Little Women (Little Women ...', 'price': '£28.07', 'url': 'little-women-little-women-1_331/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'It', 'price': '£25.01', 'url': 'it_330/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Harry Potter and the ...', 'price': '£13.90', 'url': 'harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Harry Potter and the ...', 'price': '£24.17', 'url': 'harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Harry Potter and the ...', 'price': '£31.63', 'url': 'harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Harry Potter and the ...', 'price': '£48.75', 'url': 'harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Harry Potter and the ...', 'price': '£14.74', 'url': 'harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Gone with the Wind', 'price': '£32.49', 'url': 'gone-with-the-wind_324/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'God Is Not Great: ...', 'price': '£27.80', 'url': 'god-is-not-great-how-religion-poisons-everything_323/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Girl With a Pearl ...', 'price': '£26.77', 'url': 'girl-with-a-pearl-earring_322/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-34.html>
+{'name': 'Fruits Basket, Vol. 4 ...', 'price': '£50.44', 'url': 'fruits-basket-vol-4-fruits-basket-4_321/index.html'}
+2023-09-07 23:00:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-35.html> (referer: https://books.toscrape.com/catalogue/page-34.html)
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Far From True (Promise ...', 'price': '£34.93', 'url': 'far-from-true-promise-falls-trilogy-2_320/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Dark Lover (Black Dagger ...', 'price': '£12.87', 'url': 'dark-lover-black-dagger-brotherhood-1_319/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Confessions of a Shopaholic ...', 'price': '£48.94', 'url': 'confessions-of-a-shopaholic-shopaholic-1_318/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Changing the Game (Play ...', 'price': '£13.38', 'url': 'changing-the-game-play-by-play-2_317/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Candide', 'price': '£58.63', 'url': 'candide_316/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Can You Keep a ...', 'price': '£21.94', 'url': 'can-you-keep-a-secret_315/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Atlas Shrugged', 'price': '£26.58', 'url': 'atlas-shrugged_314/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Animal Farm', 'price': '£57.22', 'url': 'animal-farm_313/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'A Walk to Remember', 'price': '£56.43', 'url': 'a-walk-to-remember_312/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'A New Earth: Awakening ...', 'price': '£55.65', 'url': 'a-new-earth-awakening-to-your-lifes-purpose_311/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'A History of God: ...', 'price': '£27.62', 'url': 'a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': "'Salem's Lot", 'price': '£49.56', 'url': 'salems-lot_309/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Zero History (Blue Ant ...', 'price': '£34.77', 'url': 'zero-history-blue-ant-3_308/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Wuthering Heights', 'price': '£17.73', 'url': 'wuthering-heights_307/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'World War Z: An ...', 'price': '£21.80', 'url': 'world-war-z-an-oral-history-of-the-zombie-war_306/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'Wild: From Lost to ...', 'price': '£46.02', 'url': 'wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': "Where'd You Go, Bernadette", 'price': '£18.13', 'url': 'whered-you-go-bernadette_304/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'When You Are Engulfed ...', 'price': '£30.89', 'url': 'when-you-are-engulfed-in-flames_303/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'We the People: The ...', 'price': '£31.95', 'url': 'we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html'}
+2023-09-07 23:00:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-35.html>
+{'name': 'We Are All Completely ...', 'price': '£24.04', 'url': 'we-are-all-completely-beside-ourselves_301/index.html'}
+2023-09-07 23:00:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-36.html> (referer: https://books.toscrape.com/catalogue/page-35.html)
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Walk the Edge (Thunder ...', 'price': '£32.36', 'url': 'walk-the-edge-thunder-road-2_300/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Voyager (Outlander #3)', 'price': '£21.07', 'url': 'voyager-outlander-3_299/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Very Good Lives: The ...', 'price': '£50.66', 'url': 'very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Vegan Vegetarian Omnivore: Dinner ...', 'price': '£13.66', 'url': 'vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Unstuffed: Decluttering Your Home, ...', 'price': '£58.09', 'url': 'unstuffed-decluttering-your-home-mind-and-soul_296/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Under the Banner of ...', 'price': '£30.00', 'url': 'under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Two Boys Kissing', 'price': '£32.74', 'url': 'two-boys-kissing_294/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Twilight (Twilight #1)', 'price': '£41.93', 'url': 'twilight-twilight-1_293/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Twenties Girl', 'price': '£42.80', 'url': 'twenties-girl_292/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Trespassing Across America: One ...', 'price': '£53.51', 'url': 'trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Three-Martini Lunch', 'price': '£23.21', 'url': 'three-martini-lunch_290/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'Thinking, Fast and Slow', 'price': '£21.14', 'url': 'thinking-fast-and-slow_289/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Wild Robot', 'price': '£56.07', 'url': 'the-wild-robot_288/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Wicked + The ...', 'price': '£14.41', 'url': 'the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Undomestic Goddess', 'price': '£45.75', 'url': 'the-undomestic-goddess_286/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Travelers', 'price': '£15.77', 'url': 'the-travelers_285/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Tipping Point: How ...', 'price': '£10.02', 'url': 'the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Thing About Jellyfish', 'price': '£48.77', 'url': 'the-thing-about-jellyfish_283/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Stand', 'price': '£57.86', 'url': 'the-stand_282/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-36.html>
+{'name': 'The Smitten Kitchen Cookbook', 'price': '£23.59', 'url': 'the-smitten-kitchen-cookbook_281/index.html'}
+2023-09-07 23:00:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-37.html> (referer: https://books.toscrape.com/catalogue/page-36.html)
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Silkworm (Cormoran Strike ...', 'price': '£23.05', 'url': 'the-silkworm-cormoran-strike-2_280/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Sandman, Vol. 3: ...', 'price': '£55.55', 'url': 'the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Rose & the ...', 'price': '£58.64', 'url': 'the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Road to Little ...', 'price': '£23.21', 'url': 'the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Rise of Theodore ...', 'price': '£42.57', 'url': 'the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Restaurant at the ...', 'price': '£10.92', 'url': 'the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Rest Is Noise: ...', 'price': '£34.77', 'url': 'the-rest-is-noise-listening-to-the-twentieth-century_274/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Red Tent', 'price': '£35.66', 'url': 'the-red-tent_273/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Purpose Driven Life: ...', 'price': '£37.19', 'url': 'the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Purest Hook (Second ...', 'price': '£12.25', 'url': 'the-purest-hook-second-circle-tattoos-3_271/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Picture of Dorian ...', 'price': '£29.70', 'url': 'the-picture-of-dorian-gray_270/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Paris Wife', 'price': '£36.80', 'url': 'the-paris-wife_269/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Obsession', 'price': '£45.43', 'url': 'the-obsession_268/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Nightingale', 'price': '£26.26', 'url': 'the-nightingale_267/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The New Guy (and ...', 'price': '£44.92', 'url': 'the-new-guy-and-other-senior-year-distractions_266/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Nanny Diaries (Nanny ...', 'price': '£52.53', 'url': 'the-nanny-diaries-nanny-1_265/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Name of God ...', 'price': '£37.25', 'url': 'the-name-of-god-is-mercy_264/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Maze Runner (The ...', 'price': '£20.93', 'url': 'the-maze-runner-the-maze-runner-1_263/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': "The Lover's Dictionary", 'price': '£58.09', 'url': 'the-lovers-dictionary_262/index.html'}
+2023-09-07 23:00:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-37.html>
+{'name': 'The Lonely Ones', 'price': '£43.59', 'url': 'the-lonely-ones_261/index.html'}
+2023-09-07 23:00:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-38.html> (referer: https://books.toscrape.com/catalogue/page-37.html)
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Lean Startup: How ...', 'price': '£33.92', 'url': 'the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Last Painting of ...', 'price': '£55.55', 'url': 'the-last-painting-of-sara-de-vos_259/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Land of 10,000 ...', 'price': '£29.64', 'url': 'the-land-of-10000-madonnas_258/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Infinities', 'price': '£27.41', 'url': 'the-infinities_257/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': "The Husband's Secret", 'price': '£52.51', 'url': 'the-husbands-secret_256/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': "The Hitchhiker's Guide to ...", 'price': '£47.80', 'url': 'the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Guns of August', 'price': '£14.54', 'url': 'the-guns-of-august_254/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Guernsey Literary and ...', 'price': '£49.53', 'url': 'the-guernsey-literary-and-potato-peel-pie-society_253/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Goldfinch', 'price': '£43.58', 'url': 'the-goldfinch_252/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Giver (The Giver ...', 'price': '£12.30', 'url': 'the-giver-the-giver-quartet-1_251/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Girl with All ...', 'price': '£49.47', 'url': 'the-girl-with-all-the-gifts_250/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Girl Who Played ...', 'price': '£22.14', 'url': 'the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Girl Who Kicked ...', 'price': '£57.48', 'url': 'the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Exiled', 'price': '£43.45', 'url': 'the-exiled_247/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The End of Faith: ...', 'price': '£22.13', 'url': 'the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Elegant Universe: Superstrings, ...', 'price': '£13.03', 'url': 'the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Disappearing Spoon: And ...', 'price': '£57.35', 'url': 'the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Devil Wears Prada ...', 'price': '£44.29', 'url': 'the-devil-wears-prada-the-devil-wears-prada-1_243/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Demon-Haunted World: Science ...', 'price': '£52.25', 'url': 'the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-38.html>
+{'name': 'The Day the Crayons ...', 'price': '£26.33', 'url': 'the-day-the-crayons-came-home-crayons_241/index.html'}
+2023-09-07 23:00:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-39.html> (referer: https://books.toscrape.com/catalogue/page-38.html)
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Da Vinci Code ...', 'price': '£22.96', 'url': 'the-da-vinci-code-robert-langdon-2_240/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': "The Cuckoo's Calling (Cormoran ...", 'price': '£19.21', 'url': 'the-cuckoos-calling-cormoran-strike-1_239/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Complete Stories and ...', 'price': '£26.78', 'url': 'the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Complete Poems', 'price': '£41.32', 'url': 'the-complete-poems_237/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Catcher in the ...', 'price': '£24.55', 'url': 'the-catcher-in-the-rye_236/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Cat in the ...', 'price': '£16.26', 'url': 'the-cat-in-the-hat-beginner-books-b-1_235/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Case for Christ ...', 'price': '£47.84', 'url': 'the-case-for-christ-cases-for-christianity_234/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Book Thief', 'price': '£53.49', 'url': 'the-book-thief_233/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Book of Basketball: ...', 'price': '£44.84', 'url': 'the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Blind Side: Evolution ...', 'price': '£53.71', 'url': 'the-blind-side-evolution-of-a-game_231/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Autobiography of Malcolm ...', 'price': '£23.43', 'url': 'the-autobiography-of-malcolm-x_230/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Art of Simple ...', 'price': '£34.32', 'url': 'the-art-of-simple-food-notes-lessons-and-recipes-from-a-delicious-revolution_229/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'The Art of Fielding', 'price': '£22.10', 'url': 'the-art-of-fielding_228/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': "Surely You're Joking, Mr. ...", 'price': '£25.83', 'url': 'surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Stiff: The Curious Lives ...', 'price': '£36.74', 'url': 'stiff-the-curious-lives-of-human-cadavers_226/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Spilled Milk: Based on ...', 'price': '£49.51', 'url': 'spilled-milk-based-on-a-true-story_225/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Something Borrowed (Darcy & ...', 'price': '£48.96', 'url': 'something-borrowed-darcy-rachel-1_224/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Something Blue (Darcy & ...', 'price': '£54.62', 'url': 'something-blue-darcy-rachel-2_223/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Soldier (Talon #3)', 'price': '£24.72', 'url': 'soldier-talon-3_222/index.html'}
+2023-09-07 23:00:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-39.html>
+{'name': 'Shopaholic & Baby (Shopaholic ...', 'price': '£46.45', 'url': 'shopaholic-baby-shopaholic-5_221/index.html'}
+2023-09-07 23:00:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-40.html> (referer: https://books.toscrape.com/catalogue/page-39.html)
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Seven Days in the ...', 'price': '£52.33', 'url': 'seven-days-in-the-art-world_220/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Seven Brief Lessons on ...', 'price': '£30.60', 'url': 'seven-brief-lessons-on-physics_219/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Scarlet (The Lunar Chronicles ...', 'price': '£14.57', 'url': 'scarlet-the-lunar-chronicles-2_218/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': "Sarah's Key", 'price': '£46.29', 'url': 'sarahs-key_217/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Saga, Volume 3 (Saga ...', 'price': '£21.57', 'url': 'saga-volume-3-saga-collected-editions-3_216/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Running with Scissors', 'price': '£12.91', 'url': 'running-with-scissors_215/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Rogue Lawyer (Rogue Lawyer ...', 'price': '£50.11', 'url': 'rogue-lawyer-rogue-lawyer-1_214/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Rise of the Rocket ...', 'price': '£41.67', 'url': 'rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Rework', 'price': '£44.88', 'url': 'rework_212/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Reservations for Two', 'price': '£11.10', 'url': 'reservations-for-two_211/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Red: The True Story ...', 'price': '£28.54', 'url': 'red-the-true-story-of-red-riding-hood_210/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Ready Player One', 'price': '£19.07', 'url': 'ready-player-one_209/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Quiet: The Power of ...', 'price': '£43.55', 'url': 'quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Prodigy: The Graphic Novel ...', 'price': '£43.63', 'url': 'prodigy-the-graphic-novel-legend-the-graphic-novel-2_207/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Persepolis: The Story of ...', 'price': '£39.13', 'url': 'persepolis-the-story-of-a-childhood-persepolis-1-2_206/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Packing for Mars: The ...', 'price': '£56.68', 'url': 'packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Outliers: The Story of ...', 'price': '£14.16', 'url': 'outliers-the-story-of-success_204/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Original Fake', 'price': '£31.45', 'url': 'original-fake_203/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'Orange Is the New ...', 'price': '£24.61', 'url': 'orange-is-the-new-black_202/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-40.html>
+{'name': 'One for the Money ...', 'price': '£32.87', 'url': 'one-for-the-money-stephanie-plum-1_201/index.html'}
+2023-09-07 23:00:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-41.html> (referer: https://books.toscrape.com/catalogue/page-40.html)
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Notes from a Small ...', 'price': '£40.17', 'url': 'notes-from-a-small-island-notes-from-a-small-island-1_200/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Night (The Night Trilogy ...', 'price': '£13.51', 'url': 'night-the-night-trilogy-1_199/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Neither Here nor There: ...', 'price': '£38.95', 'url': 'neither-here-nor-there-travels-in-europe_198/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Naked', 'price': '£31.69', 'url': 'naked_197/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Morning Star (Red Rising ...', 'price': '£29.40', 'url': 'morning-star-red-rising-3_196/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Miracles from Heaven: A ...', 'price': '£57.83', 'url': 'miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Midnight Riot (Peter Grant/ ...', 'price': '£55.46', 'url': 'midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Me Talk Pretty One ...', 'price': '£57.60', 'url': 'me-talk-pretty-one-day_193/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Manuscript Found in Accra', 'price': '£34.98', 'url': 'manuscript-found-in-accra_192/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Lust & Wonder', 'price': '£11.87', 'url': 'lust-wonder_191/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Lila (Gilead #3)', 'price': '£12.47', 'url': 'lila-gilead-3_190/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Life, the Universe and ...', 'price': '£33.26', 'url': 'life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Life Without a Recipe', 'price': '£59.04', 'url': 'life-without-a-recipe_188/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Life After Life', 'price': '£26.13', 'url': 'life-after-life_187/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Letter to a Christian ...', 'price': '£22.20', 'url': 'letter-to-a-christian-nation_186/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': "Let's Pretend This Never ...", 'price': '£45.11', 'url': 'lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Legend (Legend #1)', 'price': '£43.69', 'url': 'legend-legend-1_184/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Lean In: Women, Work, ...', 'price': '£25.02', 'url': 'lean-in-women-work-and-the-will-to-lead_183/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Lamb: The Gospel According ...', 'price': '£55.50', 'url': 'lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-41.html>
+{'name': 'Lady Renegades (Rebel Belle ...', 'price': '£53.04', 'url': 'lady-renegades-rebel-belle-3_181/index.html'}
+2023-09-07 23:00:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-42.html> (referer: https://books.toscrape.com/catalogue/page-41.html)
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Jurassic Park (Jurassic Park ...', 'price': '£44.97', 'url': 'jurassic-park-jurassic-park-1_180/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': "It's Never Too Late ...", 'price': '£42.38', 'url': 'its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Is Everyone Hanging Out ...', 'price': '£20.11', 'url': 'is-everyone-hanging-out-without-me-and-other-concerns_178/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Into the Wild', 'price': '£56.70', 'url': 'into-the-wild_177/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Inferno (Robert Langdon #4)', 'price': '£41.00', 'url': 'inferno-robert-langdon-4_176/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'In the Garden of ...', 'price': '£28.85', 'url': 'in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'If I Run (If ...', 'price': '£49.97', 'url': 'if-i-run-if-i-run-1_174/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': "I've Got Your Number", 'price': '£19.69', 'url': 'ive-got-your-number_173/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'I Am Malala: The ...', 'price': '£28.88', 'url': 'i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Hungry Girl Clean & ...', 'price': '£33.14', 'url': 'hungry-girl-clean-hungry-easy-all-natural-recipes-for-healthy-eating-in-the-real-world_171/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'House of Lost Worlds: ...', 'price': '£43.70', 'url': 'house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'House of Leaves', 'price': '£54.89', 'url': 'house-of-leaves_169/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Horrible Bear!', 'price': '£37.52', 'url': 'horrible-bear_168/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Holidays on Ice', 'price': '£51.07', 'url': 'holidays-on-ice_167/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Heir to the Sky', 'price': '£44.07', 'url': 'heir-to-the-sky_166/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Green Eggs and Ham ...', 'price': '£10.79', 'url': 'green-eggs-and-ham-beginner-books-b-16_165/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Grayson, Vol 3: Nemesis ...', 'price': '£42.72', 'url': 'grayson-vol-3-nemesis-grayson-3_164/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Gratitude', 'price': '£26.66', 'url': 'gratitude_163/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Gone Girl', 'price': '£37.60', 'url': 'gone-girl_162/index.html'}
+2023-09-07 23:00:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-42.html>
+{'name': 'Golden (Heart of Dread ...', 'price': '£42.21', 'url': 'golden-heart-of-dread-3_161/index.html'}
+2023-09-07 23:00:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-43.html> (referer: https://books.toscrape.com/catalogue/page-42.html)
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Girl in the Blue ...', 'price': '£46.83', 'url': 'girl-in-the-blue-coat_160/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Fruits Basket, Vol. 3 ...', 'price': '£45.17', 'url': 'fruits-basket-vol-3-fruits-basket-3_159/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Friday Night Lights: A ...', 'price': '£51.22', 'url': 'friday-night-lights-a-town-a-team-and-a-dream_158/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Fire Bound (Sea Haven/Sisters ...', 'price': '£21.28', 'url': 'fire-bound-sea-havensisters-of-the-heart-5_157/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Fifty Shades Freed (Fifty ...', 'price': '£15.36', 'url': 'fifty-shades-freed-fifty-shades-3_156/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Fellside', 'price': '£38.62', 'url': 'fellside_155/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Extreme Prey (Lucas Davenport ...', 'price': '£25.40', 'url': 'extreme-prey-lucas-davenport-26_154/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Eragon (The Inheritance Cycle ...', 'price': '£43.87', 'url': 'eragon-the-inheritance-cycle-1_153/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Eclipse (Twilight #3)', 'price': '£18.74', 'url': 'eclipse-twilight-3_152/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Dune (Dune #1)', 'price': '£54.86', 'url': 'dune-dune-1_151/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Dracula', 'price': '£52.62', 'url': 'dracula_150/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Do Androids Dream of ...', 'price': '£51.48', 'url': 'do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Disrupted: My Misadventure in ...', 'price': '£15.28', 'url': 'disrupted-my-misadventure-in-the-start-up-bubble_148/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Dead Wake: The Last ...', 'price': '£39.24', 'url': 'dead-wake-the-last-crossing-of-the-lusitania_147/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'David and Goliath: Underdogs, ...', 'price': '£17.81', 'url': 'david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Darkfever (Fever #1)', 'price': '£56.02', 'url': 'darkfever-fever-1_145/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Dark Places', 'price': '£23.90', 'url': 'dark-places_144/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Crazy Rich Asians (Crazy ...', 'price': '£49.13', 'url': 'crazy-rich-asians-crazy-rich-asians-1_143/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Counting Thyme', 'price': '£10.62', 'url': 'counting-thyme_142/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-43.html>
+{'name': 'Cosmos', 'price': '£36.17', 'url': 'cosmos_141/index.html'}
+2023-09-07 23:00:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-44.html> (referer: https://books.toscrape.com/catalogue/page-43.html)
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Civilization and Its Discontents', 'price': '£59.95', 'url': 'civilization-and-its-discontents_140/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Cinder (The Lunar Chronicles ...', 'price': '£26.09', 'url': 'cinder-the-lunar-chronicles-1_139/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Catastrophic Happiness: Finding Joy ...', 'price': '£37.35', 'url': 'catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Career of Evil (Cormoran ...', 'price': '£24.72', 'url': 'career-of-evil-cormoran-strike-3_137/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Breaking Dawn (Twilight #4)', 'price': '£35.28', 'url': 'breaking-dawn-twilight-4_136/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Brave Enough', 'price': '£51.32', 'url': 'brave-enough_135/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Boy Meets Boy', 'price': '£21.12', 'url': 'boy-meets-boy_134/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Born to Run: A ...', 'price': '£27.35', 'url': 'born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Blink: The Power of ...', 'price': '£21.74', 'url': 'blink-the-power-of-thinking-without-thinking_132/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Black Flags: The Rise ...', 'price': '£40.87', 'url': 'black-flags-the-rise-of-isis_131/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Black Butler, Vol. 1 ...', 'price': '£49.31', 'url': 'black-butler-vol-1-black-butler-1_130/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Big Little Lies', 'price': '£22.11', 'url': 'big-little-lies_129/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Between Shades of Gray', 'price': '£20.79', 'url': 'between-shades-of-gray_128/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Best of My Love ...', 'price': '£27.41', 'url': 'best-of-my-love-fools-gold-20_127/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Beowulf', 'price': '£38.35', 'url': 'beowulf_126/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Beautiful Creatures (Caster Chronicles ...', 'price': '£21.55', 'url': 'beautiful-creatures-caster-chronicles-1_125/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Awkward', 'price': '£38.02', 'url': 'awkward_124/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Ash', 'price': '£22.06', 'url': 'ash_123/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Are We There Yet?', 'price': '£10.66', 'url': 'are-we-there-yet_122/index.html'}
+2023-09-07 23:00:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-44.html>
+{'name': 'Are We Smart Enough ...', 'price': '£56.58', 'url': 'are-we-smart-enough-to-know-how-smart-animals-are_121/index.html'}
+2023-09-07 23:00:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-45.html> (referer: https://books.toscrape.com/catalogue/page-44.html)
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Annie on My Mind', 'price': '£36.83', 'url': 'annie-on-my-mind_120/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'And Then There Were ...', 'price': '£35.01', 'url': 'and-then-there-were-none_119/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'A Walk in the ...', 'price': '£30.48', 'url': 'a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'A Visit from the ...', 'price': '£14.08', 'url': 'a-visit-from-the-goon-squad_117/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'A Storm of Swords ...', 'price': '£31.22', 'url': 'a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'A Heartbreaking Work of ...', 'price': '£54.29', 'url': 'a-heartbreaking-work-of-staggering-genius_115/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': '8 Keys to Mental ...', 'price': '£31.04', 'url': '8-keys-to-mental-health-through-exercise_114/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': '#GIRLBOSS', 'price': '£50.96', 'url': 'girlboss_113/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'The Suffragettes (Little Black ...', 'price': '£11.89', 'url': 'the-suffragettes-little-black-classics-96_112/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'The Sense of an ...', 'price': '£31.38', 'url': 'the-sense-of-an-ending_111/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'The Sandman, Vol. 2: ...', 'price': '£54.81', 'url': 'the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'The Course of Love', 'price': '£16.78', 'url': 'the-course-of-love_109/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Sugar Rush (Offensive Line ...', 'price': '£24.42', 'url': 'sugar-rush-offensive-line-2_108/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Saga, Volume 2 (Saga ...', 'price': '£11.75', 'url': 'saga-volume-2-saga-collected-editions-2_107/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Run, Spot, Run: The ...', 'price': '£20.02', 'url': 'run-spot-run-the-ethics-of-keeping-pets_106/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'New Moon (Twilight #2)', 'price': '£12.86', 'url': 'new-moon-twilight-2_105/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Life', 'price': '£31.58', 'url': 'life_104/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': "Kindle Paperwhite User's Guide", 'price': '£34.00', 'url': 'kindle-paperwhite-users-guide_103/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'H is for Hawk', 'price': '£57.42', 'url': 'h-is-for-hawk_102/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-45.html>
+{'name': 'Girl Online On Tour ...', 'price': '£53.47', 'url': 'girl-online-on-tour-girl-online-2_101/index.html'}
+2023-09-07 23:00:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-46.html> (referer: https://books.toscrape.com/catalogue/page-45.html)
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Fruits Basket, Vol. 2 ...', 'price': '£11.64', 'url': 'fruits-basket-vol-2-fruits-basket-2_100/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Diary of a Minecraft ...', 'price': '£52.88', 'url': 'diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Y: The Last Man, ...', 'price': '£18.51', 'url': 'y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'While You Were Mine', 'price': '£41.32', 'url': 'while-you-were-mine_97/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Where Lightning Strikes (Bleeding ...', 'price': '£39.77', 'url': 'where-lightning-strikes-bleeding-stars-3_96/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': "When I'm Gone", 'price': '£51.96', 'url': 'when-im-gone_95/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Ways of Seeing', 'price': '£39.51', 'url': 'ways-of-seeing_94/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Vampire Knight, Vol. 1 ...', 'price': '£15.40', 'url': 'vampire-knight-vol-1-vampire-knight-1_93/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Vampire Girl (Vampire Girl ...', 'price': '£53.82', 'url': 'vampire-girl-vampire-girl-1_92/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Twenty Love Poems and ...', 'price': '£30.95', 'url': 'twenty-love-poems-and-a-song-of-despair_91/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Travels with Charley: In ...', 'price': '£57.82', 'url': 'travels-with-charley-in-search-of-america_90/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'Three Wishes (River of ...', 'price': '£44.18', 'url': 'three-wishes-river-of-time-california-1_89/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'This One Moment (Pushing ...', 'price': '£48.71', 'url': 'this-one-moment-pushing-limits-1_88/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Zombie Room', 'price': '£19.69', 'url': 'the-zombie-room_87/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Wicked + The ...', 'price': '£36.52', 'url': 'the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Tumor', 'price': '£41.56', 'url': 'the-tumor_85/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Story of Hong ...', 'price': '£43.19', 'url': 'the-story-of-hong-gildong_84/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Silent Wife', 'price': '£12.34', 'url': 'the-silent-wife_83/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Silent Twin (Detective ...', 'price': '£36.25', 'url': 'the-silent-twin-detective-jennifer-knight-3_82/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-46.html>
+{'name': 'The Selfish Gene', 'price': '£29.45', 'url': 'the-selfish-gene_81/index.html'}
+2023-09-07 23:00:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-47.html> (referer: https://books.toscrape.com/catalogue/page-46.html)
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Secret Healer', 'price': '£34.56', 'url': 'the-secret-healer_80/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Sandman, Vol. 1: ...', 'price': '£54.12', 'url': 'the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Republic', 'price': '£33.78', 'url': 'the-republic_78/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Odyssey', 'price': '£29.64', 'url': 'the-odyssey_77/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': "The No. 1 Ladies' ...", 'price': '£57.70', 'url': 'the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Nicomachean Ethics', 'price': '£36.34', 'url': 'the-nicomachean-ethics_75/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Name of the ...', 'price': '£50.59', 'url': 'the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Mirror & the ...', 'price': '£29.38', 'url': 'the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Little Prince', 'price': '£45.42', 'url': 'the-little-prince_72/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Light of the ...', 'price': '£54.43', 'url': 'the-light-of-the-fireflies_71/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Last Girl (The ...', 'price': '£36.26', 'url': 'the-last-girl-the-dominion-trilogy-1_70/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Iliad', 'price': '£16.16', 'url': 'the-iliad_69/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Hook Up (Game ...', 'price': '£36.29', 'url': 'the-hook-up-game-on-1_68/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Haters', 'price': '£27.89', 'url': 'the-haters_67/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Girl You Lost', 'price': '£12.29', 'url': 'the-girl-you-lost_66/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Girl In The ...', 'price': '£15.85', 'url': 'the-girl-in-the-ice-dci-erika-foster-1_65/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The End of the ...', 'price': '£14.40', 'url': 'the-end-of-the-jesus-era-an-investigation-1_64/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Edge of Reason ...', 'price': '£19.18', 'url': 'the-edge-of-reason-bridget-jones-2_63/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Complete Maus (Maus ...', 'price': '£10.64', 'url': 'the-complete-maus-maus-1-2_62/index.html'}
+2023-09-07 23:00:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-47.html>
+{'name': 'The Communist Manifesto', 'price': '£14.76', 'url': 'the-communist-manifesto_61/index.html'}
+2023-09-07 23:00:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-48.html> (referer: https://books.toscrape.com/catalogue/page-47.html)
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'The Bhagavad Gita', 'price': '£57.49', 'url': 'the-bhagavad-gita_60/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'The Bette Davis Club', 'price': '£30.66', 'url': 'the-bette-davis-club_59/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'The Art of Not ...', 'price': '£40.83', 'url': 'the-art-of-not-breathing_58/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Taking Shots (Assassins #1)', 'price': '£18.88', 'url': 'taking-shots-assassins-1_57/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Starlark', 'price': '£25.83', 'url': 'starlark_56/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Skip Beat!, Vol. 01 ...', 'price': '£42.12', 'url': 'skip-beat-vol-01-skip-beat-1_55/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Sister Sable (The Mad ...', 'price': '£13.33', 'url': 'sister-sable-the-mad-queen-1_54/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Shatter Me (Shatter Me ...', 'price': '£42.40', 'url': 'shatter-me-shatter-me-1_53/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Shameless', 'price': '£58.35', 'url': 'shameless_52/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Shadow Rites (Jane Yellowrock ...', 'price': '£21.72', 'url': 'shadow-rites-jane-yellowrock-10_51/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Settling the Score (The ...', 'price': '£44.91', 'url': 'settling-the-score-the-summer-games-1_50/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Sense and Sensibility', 'price': '£37.46', 'url': 'sense-and-sensibility_49/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Saga, Volume 1 (Saga ...', 'price': '£28.48', 'url': 'saga-volume-1-saga-collected-editions-1_48/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Rhythm, Chord & Malykhin', 'price': '£28.34', 'url': 'rhythm-chord-malykhin_47/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Rat Queens, Vol. 1: ...', 'price': '£46.96', 'url': 'rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Paradise Lost (Paradise #1)', 'price': '£24.96', 'url': 'paradise-lost-paradise-1_45/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Paper Girls, Vol. 1 ...', 'price': '£21.71', 'url': 'paper-girls-vol-1-paper-girls-1-5_44/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Ouran High School Host ...', 'price': '£29.87', 'url': 'ouran-high-school-host-club-vol-1-ouran-high-school-host-club-1_43/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'Origins (Alphas 0.5)', 'price': '£28.99', 'url': 'origins-alphas-05_42/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-48.html>
+{'name': 'One Second (Seven #7)', 'price': '£52.94', 'url': 'one-second-seven-7_41/index.html'}
+2023-09-07 23:00:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-49.html> (referer: https://books.toscrape.com/catalogue/page-48.html)
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'On the Road (Duluoz ...', 'price': '£32.36', 'url': 'on-the-road-duluoz-legend_40/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Old Records Never Die: ...', 'price': '£55.66', 'url': 'old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Off Sides (Off #1)', 'price': '£39.45', 'url': 'off-sides-off-1_38/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Of Mice and Men', 'price': '£47.11', 'url': 'of-mice-and-men_37/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Myriad (Prentor #1)', 'price': '£58.75', 'url': 'myriad-prentor-1_36/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'My Perfect Mistake (Over ...', 'price': '£38.92', 'url': 'my-perfect-mistake-over-the-top-1_35/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Ms. Marvel, Vol. 1: ...', 'price': '£39.39', 'url': 'ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Meditations', 'price': '£25.89', 'url': 'meditations_33/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Matilda', 'price': '£28.34', 'url': 'matilda_32/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Lost Among the Living', 'price': '£27.70', 'url': 'lost-among-the-living_31/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Lord of the Flies', 'price': '£24.89', 'url': 'lord-of-the-flies_30/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Listen to Me (Fusion ...', 'price': '£58.99', 'url': 'listen-to-me-fusion-1_29/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Kitchens of the Great ...', 'price': '£57.20', 'url': 'kitchens-of-the-great-midwest_28/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Jane Eyre', 'price': '£38.43', 'url': 'jane-eyre_27/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Imperfect Harmony', 'price': '£34.74', 'url': 'imperfect-harmony_26/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Icing (Aces Hockey #2)', 'price': '£40.44', 'url': 'icing-aces-hockey-2_25/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Hawkeye, Vol. 1: My ...', 'price': '£45.24', 'url': 'hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': "Having the Barbarian's Baby ...", 'price': '£34.96', 'url': 'having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Giant Days, Vol. 1 ...', 'price': '£56.76', 'url': 'giant-days-vol-1-giant-days-1-4_22/index.html'}
+2023-09-07 23:00:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-49.html>
+{'name': 'Fruits Basket, Vol. 1 ...', 'price': '£40.28', 'url': 'fruits-basket-vol-1-fruits-basket-1_21/index.html'}
+2023-09-07 23:00:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://books.toscrape.com/catalogue/page-50.html> (referer: https://books.toscrape.com/catalogue/page-49.html)
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Frankenstein', 'price': '£38.00', 'url': 'frankenstein_20/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Forever Rockers (The Rocker ...', 'price': '£28.80', 'url': 'forever-rockers-the-rocker-12_19/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Fighting Fate (Fighting #6)', 'price': '£39.24', 'url': 'fighting-fate-fighting-6_18/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Emma', 'price': '£32.93', 'url': 'emma_17/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Eat, Pray, Love', 'price': '£51.32', 'url': 'eat-pray-love_16/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Deep Under (Walker Security ...', 'price': '£47.09', 'url': 'deep-under-walker-security-1_15/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Choosing Our Religion: The ...', 'price': '£28.42', 'url': 'choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Charlie and the Chocolate ...', 'price': '£22.85', 'url': 'charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': "Charity's Cross (Charles Towne ...", 'price': '£41.24', 'url': 'charitys-cross-charles-towne-belles-4_12/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Bright Lines', 'price': '£39.07', 'url': 'bright-lines_11/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': "Bridget Jones's Diary (Bridget ...", 'price': '£29.82', 'url': 'bridget-joness-diary-bridget-jones-1_10/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Bounty (Colorado Mountain #7)', 'price': '£37.26', 'url': 'bounty-colorado-mountain-7_9/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Blood Defense (Samantha Brinkman ...', 'price': '£20.30', 'url': 'blood-defense-samantha-brinkman-1_8/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Bleach, Vol. 1: Strawberry ...', 'price': '£34.65', 'url': 'bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Beyond Good and Evil', 'price': '£43.38', 'url': 'beyond-good-and-evil_6/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': "Alice in Wonderland (Alice's ...", 'price': '£55.53', 'url': 'alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': 'Ajin: Demi-Human, Volume 1 ...', 'price': '£57.06', 'url': 'ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': "A Spy's Devotion (The ...", 'price': '£16.97', 'url': 'a-spys-devotion-the-regency-spies-of-london-1_3/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': "1st to Die (Women's ...", 'price': '£53.98', 'url': '1st-to-die-womens-murder-club-1_2/index.html'}
+2023-09-07 23:00:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://books.toscrape.com/catalogue/page-50.html>
+{'name': '1,000 Places to See ...', 'price': '£26.08', 'url': '1000-places-to-see-before-you-die_1/index.html'}
+2023-09-07 23:00:20 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-09-07 23:00:20 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15158,
+ 'downloader/request_count': 51,
+ 'downloader/request_method_count/GET': 51,
+ 'downloader/response_bytes': 2556339,
+ 'downloader/response_count': 51,
+ 'downloader/response_status_count/200': 50,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 22.397385,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 9, 7, 17, 30, 20, 123406),
+ 'item_scraped_count': 1000,
+ 'log_count/DEBUG': 1054,
+ 'log_count/INFO': 10,
+ 'memusage/max': 62947328,
+ 'memusage/startup': 62947328,
+ 'request_depth_max': 49,
+ 'response_received_count': 51,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 50,
+ 'scheduler/dequeued/memory': 50,
+ 'scheduler/enqueued': 50,
+ 'scheduler/enqueued/memory': 50,
+ 'start_time': datetime.datetime(2023, 9, 7, 17, 29, 57, 726021)}
+2023-09-07 23:00:20 [scrapy.core.engine] INFO: Spider closed (finished)
+(venv) karthik@Karthiks-MacBook-Air bookscraper % 
